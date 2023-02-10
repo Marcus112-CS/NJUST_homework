@@ -1,0 +1,43 @@
+S->HPI                 // 主体三大部分 head 头文件可多个
+H->O		        // 头文件
+O->#k<k>
+H->OH
+P->kkk;               // 命名空间
+I->Ym()M	       // 主函数只能有一个
+M->{DrK;}           // 保证主函数只有一个返回值(return 常量)
+K->1                   // K->各种常量类型
+K->2
+K->3
+K->4
+K->5
+K->6
+Y->i	                 // 变量类型 int double float complex
+Y->d
+Y->f
+Y->c
+D->AD	        // 声明 可以进行 type e; 的定义
+A->Ye;
+D->A
+D->PD	        // 变量声明的同时用表达式|变量|常量进行赋值 type e= { e和K组成的边长表达式 | 单独的e或K }
+D->P
+P->Ye=M;
+D->BD                 // 计算赋值 e= { e和K组成的变长表达式 | 单独的e或K }
+D->B
+B->e=M;
+M->K;
+M->e;
+M->J
+J->K
+J->e
+M->MsM            // temp 用于计算赋值和声明(同时赋值)的单目运算符引入(可变长)
+M->sM
+D->ED                // for 循环
+D->E
+E->f(PebK;U){D} // for中迭代器可以是变量声明,变量声明(+赋值) 变更可以左或者右方双目运算符
+U->eb
+U->be
+D->FD               // while循环 (可以是任何常量||变量) 随时break||continue
+D->F
+F->w(J){D}
+D->o;                // break   a   |   continue o
+D->a;

@@ -1,0 +1,120 @@
+                           TOKEN TABLE
+       line         type                word        
+       1        ERROR TYPE         #               
+       1        KEYWORD            include         
+       1        ERROR TYPE         <               
+       1        KEYWORD            iostream        
+       1        ERROR TYPE         >              
+       2        ERROR TYPE         #               
+       2        KEYWORD            include         
+       2        ERROR TYPE         <               
+       2        KEYWORD            string          
+       2        ERROR TYPE         >              
+       3        ERROR TYPE         #               
+       3        KEYWORD            include         
+       3        ERROR TYPE         <               
+       3        KEYWORD            map             
+       3        ERROR TYPE         >              
+       4        KEYWORD            using           
+       4        KEYWORD            namespace       
+       4        KEYWORD            std             
+       4        ERROR TYPE         ;              
+       5        KEYWORD            int             
+       5        KEYWORD            main            
+       5        ERROR TYPE         (               
+       5        ERROR TYPE         )              
+       6        ERROR TYPE         {              
+       7        KEYWORD            int             
+       7        ERROR TYPE         _ia12           
+       7        ERROR TYPE         ;              
+       8        KEYWORD            while           
+       8        ERROR TYPE         (               
+       8        ERROR TYPE         1               
+       8        ERROR TYPE         )              
+       9        ERROR TYPE         {              
+       10        KEYWORD            int             
+       10        ERROR TYPE         a               
+       10        ERROR TYPE         ;              
+       11        KEYWORD            int             
+       11        ERROR TYPE         aj              
+       11        ERROR TYPE         ;              
+       12        KEYWORD            double          
+       12        ERROR TYPE         a               
+       12        ERROR TYPE         =               
+       12        ERROR TYPE         1.0             
+       12        ERROR TYPE         ;              
+       13        KEYWORD            int             
+       13        ERROR TYPE         b               
+       13        ERROR TYPE         =               
+       13        ERROR TYPE         013643          
+       13        ERROR TYPE         ;              
+       14        KEYWORD            int             
+       14        ERROR TYPE         d               
+       14        ERROR TYPE         =               
+       14        ERROR TYPE         1765            
+       14        ERROR TYPE         ;              
+       15        KEYWORD            double          
+       15        ERROR TYPE         k               
+       15        ERROR TYPE         =               
+       15        ERROR TYPE         b               
+       15        ERROR TYPE         ;              
+       16        KEYWORD            int             
+       16        ERROR TYPE         c               
+       16        ERROR TYPE         =               
+       16        ERROR TYPE         0XA8B4F         
+       16        ERROR TYPE         ;              
+       17        KEYWORD            float           
+       17        ERROR TYPE         d               
+       17        ERROR TYPE         =               
+       17        ERROR TYPE         2.21E-4         
+       17        ERROR TYPE         ;              
+       18        ERROR TYPE         res             
+       18        ERROR TYPE         =               
+       18        ERROR TYPE         b               
+       18        ERROR TYPE         *               
+       18        ERROR TYPE         c               
+       18        ERROR TYPE         -               
+       18        ERROR TYPE         1.25E+4         
+       18        ERROR TYPE         ;              
+       19        KEYWORD            complex         
+       19        ERROR TYPE         k               
+       19        ERROR TYPE         ;              
+       20        ERROR TYPE         k               
+       20        ERROR TYPE         =               
+       20        ERROR TYPE         2+3.7I          
+       20        ERROR TYPE         ;              
+       21        KEYWORD            for             
+       21        ERROR TYPE         (               
+       21        KEYWORD            int             
+       21        ERROR TYPE         i               
+       21        ERROR TYPE         =               
+       21        ERROR TYPE         3               
+       21        ERROR TYPE         ;               
+       21        ERROR TYPE         i               
+       21        ERROR TYPE         <=              
+       21        ERROR TYPE         10              
+       21        ERROR TYPE         ;               
+       21        ERROR TYPE         --              
+       21        ERROR TYPE         i               
+       21        ERROR TYPE         )               
+       21        ERROR TYPE         {              
+       22        ERROR TYPE         _a              
+       22        ERROR TYPE         =               
+       22        ERROR TYPE         b               
+       22        ERROR TYPE         /               
+       22        ERROR TYPE         c               
+       22        ERROR TYPE         +               
+       22        ERROR TYPE         123             
+       22        ERROR TYPE         ;              
+       23        ERROR TYPE         a               
+       23        ERROR TYPE         =               
+       23        ERROR TYPE         d               
+       23        ERROR TYPE         ;              
+       24        KEYWORD            break           
+       24        ERROR TYPE         ;              
+       25        ERROR TYPE         }              
+       26        ERROR TYPE         }              
+       27        KEYWORD            return          
+       27        ERROR TYPE         0               
+       27        ERROR TYPE         ;              
+       28        ERROR TYPE         }               

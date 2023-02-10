@@ -1,0 +1,28 @@
+# include < iostream >
+# include < string >
+# include < map >
+using namespace std ;
+int main ( )
+{
+   int _ia12 ;
+   while ( 1 )
+   {
+      int a ;
+      int aj ;
+      double a = 1.0 ;
+      int b = 013643 ;
+      int d = 1765 ;
+      double k = b ;
+      int c = 0XA8B4F ;
+      float d = 2.21E-4 ;
+      res = b *  c - 1.25E+4  ;
+      complex k ;
+      k = 2+3.7I ;
+      for ( int i = 3 ; i <= 10 ; -- i  ) {
+          _a = b / c + 123 ;
+          a = d ;
+          break ;
+      }
+   }
+   return 0 ;
+}

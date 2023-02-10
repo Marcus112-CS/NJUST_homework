@@ -1,0 +1,4036 @@
+                                   囂隈蛍裂猟隈 �犢慚渡⇒骸�(厮電會侃尖)  
+恢伏塀訳方 : 43
+Vn方朕 : 15
+        { ABDEFHIJKMOPSUY }
+Vt方朕 : 29
+        { #()123456;<=>abcdefikmorsw{} }
+光Vn嬬倦容竃腎 : 
+          U   S   P   K   J   I   H   E   O   D   M   Y   B   F   A   
+          N   N   N   N   N   N   N   N   N   N   N   N   N   N   N   
+光倖Vn議First鹿栽 : 
+          First (A) = { c,d,f,i }
+          First (B) = { e }
+          First (D) = { a,c,d,e,f,i,k,o,w }
+          First (E) = { f }
+          First (F) = { w }
+          First (H) = { # }
+          First (I) = { c,d,f,i }
+          First (J) = { 1,2,3,4,5,6,e }
+          First (K) = { 1,2,3,4,5,6 }
+          First (M) = { e,s,{ }
+          First (O) = { # }
+          First (P) = { c,d,f,i,k }
+          First (S) = { # }
+          First (U) = { b,e }
+          First (Y) = { c,d,f,i }
+�酊深�号袈怛更秀潤惚 : 268 倖
+          I0 :
+              $->，S,#
+              S->，HPI,#
+              H->，O,
+              H->，O,c
+              H->，O,d
+              H->，O,f
+              H->，O,i
+              H->，O,k
+              O->，#k<k>,
+              O->，#k<k>,#
+              H->，OH,
+              H->，OH,c
+              H->，OH,d
+              H->，OH,f
+              H->，OH,i
+              H->，OH,k
+
+          I1 :
+              O->#，k<k>,
+              O->#，k<k>,#
+
+          I2 :
+              S->H，PI,#
+              P->，kkk;,
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,f
+              P->，kkk;,i
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              P->，Ye=M;,
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+
+          I3 :
+              H->，O,
+              H->O，,
+              H->O，,c
+              H->O，,d
+              H->O，,f
+              H->O，,i
+              H->O，,k
+              O->，#k<k>,
+              O->，#k<k>,#
+              H->，OH,
+              H->O，H,
+              H->O，H,c
+              H->O，H,d
+              H->O，H,f
+              H->O，H,i
+              H->O，H,k
+
+          I4 :
+              $->S，,#
+
+          I5 :
+              H->O，,
+              H->O，,c
+              H->O，,d
+              H->O，,f
+              H->O，,i
+              H->O，,k
+
+          I6 :
+              H->OH，,
+              H->OH，,c
+              H->OH，,d
+              H->OH，,f
+              H->OH，,i
+              H->OH，,k
+
+          I7 :
+              H->，O,
+              H->O，,
+              O->，#k<k>,
+              O->，#k<k>,#
+              H->，OH,
+              H->O，H,
+
+          I8 :
+              H->O，,
+
+          I9 :
+              H->OH，,
+
+          I10 :
+              H->OH，,
+
+          I11 :
+              H->OH，,
+              H->OH，,c
+              H->OH，,d
+              H->OH，,f
+              H->OH，,i
+              H->OH，,k
+
+          I12 :
+              S->HP，I,#
+              I->，Ym()M,
+              Y->，i,m
+              Y->，d,m
+              Y->，f,m
+              Y->，c,m
+
+          I13 :
+              P->Y，e=M;,
+              P->Y，e=M;,c
+              P->Y，e=M;,d
+              P->Y，e=M;,f
+              P->Y，e=M;,i
+
+          I14 :
+              Y->c，,e
+
+          I15 :
+              Y->d，,e
+
+          I16 :
+              Y->f，,e
+
+          I17 :
+              Y->i，,e
+
+          I18 :
+              P->k，kk;,
+              P->k，kk;,c
+              P->k，kk;,d
+              P->k，kk;,f
+              P->k，kk;,i
+
+          I19 :
+              P->kk，k;,
+              P->kk，k;,c
+              P->kk，k;,d
+              P->kk，k;,f
+              P->kk，k;,i
+
+          I20 :
+              P->kkk，;,
+              P->kkk，;,c
+              P->kkk，;,d
+              P->kkk，;,f
+              P->kkk，;,i
+
+          I21 :
+              P->kkk;，,
+              P->kkk;，,c
+              P->kkk;，,d
+              P->kkk;，,f
+              P->kkk;，,i
+
+          I22 :
+              P->kkk;，,
+              P->kkk;，,c
+              P->kkk;，,d
+              P->kkk;，,f
+              P->kkk;，,i
+
+          I23 :
+              Y->i，,e
+
+          I24 :
+              Y->f，,e
+
+          I25 :
+              Y->d，,e
+
+          I26 :
+              Y->c，,e
+
+          I27 :
+              P->Ye，=M;,
+              P->Ye，=M;,c
+              P->Ye，=M;,d
+              P->Ye，=M;,f
+              P->Ye，=M;,i
+
+          I28 :
+              M->，{DrK;},;
+              M->，{DrK;},s
+              K->，1,
+              K->，1,;
+              K->，2,
+              K->，2,;
+              K->，3,
+              K->，3,;
+              K->，4,
+              K->，4,;
+              K->，5,
+              K->，5,;
+              K->，6,
+              K->，6,;
+              P->Ye=，M;,
+              P->Ye=，M;,c
+              P->Ye=，M;,d
+              P->Ye=，M;,f
+              P->Ye=，M;,i
+              M->，K;,;
+              M->，K;,s
+              M->，e;,;
+              M->，e;,s
+              M->，J,;
+              M->，J,s
+              J->，K,
+              J->，e,
+              M->，MsM,;
+              M->，MsM,s
+              M->，sM,;
+              M->，sM,s
+
+          I29 :
+              K->1，,
+              K->1，,;
+
+          I30 :
+              K->2，,
+              K->2，,;
+
+          I31 :
+              K->3，,
+              K->3，,;
+
+          I32 :
+              K->4，,
+              K->4，,;
+
+          I33 :
+              K->5，,
+              K->5，,;
+
+          I34 :
+              K->6，,
+              K->6，,;
+
+          I35 :
+              M->J，,;
+              M->J，,s
+
+          I36 :
+              M->K，;,;
+              M->K，;,s
+              J->K，,
+
+          I37 :
+              P->Ye=M，;,
+              P->Ye=M，;,c
+              P->Ye=M，;,d
+              P->Ye=M，;,f
+              P->Ye=M，;,i
+              M->M，sM,;
+              M->M，sM,s
+
+          I38 :
+              M->e，;,;
+              M->e，;,s
+              J->e，,
+
+          I39 :
+              M->，{DrK;},
+              M->，{DrK;},s
+              K->，1,
+              K->，1,;
+              K->，2,
+              K->，2,;
+              K->，3,
+              K->，3,;
+              K->，4,
+              K->，4,;
+              K->，5,
+              K->，5,;
+              K->，6,
+              K->，6,;
+              M->，K;,
+              M->，K;,s
+              M->，e;,
+              M->，e;,s
+              M->，J,
+              M->，J,s
+              J->，K,
+              J->，e,
+              M->，MsM,
+              M->，MsM,s
+              M->，sM,
+              M->s，M,;
+              M->，sM,s
+              M->s，M,s
+
+          I40 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              M->{，DrK;},;
+              M->{，DrK;},s
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,r
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,r
+              D->，PD,r
+              D->，P,r
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,r
+              D->，B,r
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,r
+              D->，E,r
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,r
+              D->，F,r
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,r
+              D->，a;,r
+
+          I41 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              D->A，D,r
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->A，,r
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I42 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->B，D,r
+              D->，B,
+              D->B，,r
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I43 :
+              M->{D，rK;},;
+              M->{D，rK;},s
+
+          I44 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->E，D,r
+              D->，E,
+              D->E，,r
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I45 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->F，D,r
+              D->，F,
+              D->F，,r
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I46 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->P，D,r
+              D->，P,
+              D->P，,r
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I47 :
+              A->Y，e;,
+              A->Y，e;,a
+              A->Y，e;,c
+              A->Y，e;,d
+              A->Y，e;,e
+              A->Y，e;,f
+              A->Y，e;,i
+              A->Y，e;,k
+              A->Y，e;,o
+              A->Y，e;,w
+              P->Y，e=M;,
+              P->Y，e=M;,a
+              P->Y，e=M;,c
+              P->Y，e=M;,d
+              P->Y，e=M;,e
+              P->Y，e=M;,f
+              P->Y，e=M;,i
+              P->Y，e=M;,k
+              P->Y，e=M;,o
+              P->Y，e=M;,w
+
+          I48 :
+              D->a，;,r
+
+          I49 :
+              B->e，=M;,
+              B->e，=M;,a
+              B->e，=M;,c
+              B->e，=M;,d
+              B->e，=M;,e
+              B->e，=M;,f
+              B->e，=M;,i
+              B->e，=M;,k
+              B->e，=M;,o
+              B->e，=M;,w
+
+          I50 :
+              Y->f，,e
+              E->f，(PebK;U){D},
+              E->f，(PebK;U){D},a
+              E->f，(PebK;U){D},c
+              E->f，(PebK;U){D},d
+              E->f，(PebK;U){D},e
+              E->f，(PebK;U){D},f
+              E->f，(PebK;U){D},i
+              E->f，(PebK;U){D},k
+              E->f，(PebK;U){D},o
+              E->f，(PebK;U){D},w
+
+          I51 :
+              P->k，kk;,
+              P->k，kk;,a
+              P->k，kk;,c
+              P->k，kk;,d
+              P->k，kk;,e
+              P->k，kk;,f
+              P->k，kk;,i
+              P->k，kk;,k
+              P->k，kk;,o
+              P->k，kk;,w
+
+          I52 :
+              D->o，;,r
+
+          I53 :
+              F->w，(J){D},
+              F->w，(J){D},a
+              F->w，(J){D},c
+              F->w，(J){D},d
+              F->w，(J){D},e
+              F->w，(J){D},f
+              F->w，(J){D},i
+              F->w，(J){D},k
+              F->w，(J){D},o
+              F->w，(J){D},w
+
+          I54 :
+              K->，1,
+              K->，2,
+              K->，3,
+              K->，4,
+              K->，5,
+              K->，6,
+              J->，K,)
+              J->，e,)
+              F->w(，J){D},
+              F->w(，J){D},a
+              F->w(，J){D},c
+              F->w(，J){D},d
+              F->w(，J){D},e
+              F->w(，J){D},f
+              F->w(，J){D},i
+              F->w(，J){D},k
+              F->w(，J){D},o
+              F->w(，J){D},w
+
+          I55 :
+              K->1，,
+
+          I56 :
+              K->2，,
+
+          I57 :
+              K->3，,
+
+          I58 :
+              K->4，,
+
+          I59 :
+              K->5，,
+
+          I60 :
+              K->6，,
+
+          I61 :
+              F->w(J，){D},
+              F->w(J，){D},a
+              F->w(J，){D},c
+              F->w(J，){D},d
+              F->w(J，){D},e
+              F->w(J，){D},f
+              F->w(J，){D},i
+              F->w(J，){D},k
+              F->w(J，){D},o
+              F->w(J，){D},w
+
+          I62 :
+              J->K，,)
+
+          I63 :
+              J->e，,)
+
+          I64 :
+              J->e，,)
+
+          I65 :
+              J->K，,)
+
+          I66 :
+              F->w(J)，{D},
+              F->w(J)，{D},a
+              F->w(J)，{D},c
+              F->w(J)，{D},d
+              F->w(J)，{D},e
+              F->w(J)，{D},f
+              F->w(J)，{D},i
+              F->w(J)，{D},k
+              F->w(J)，{D},o
+              F->w(J)，{D},w
+
+          I67 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,}
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,}
+              D->，PD,}
+              D->，P,}
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,}
+              D->，B,}
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,}
+              D->，E,}
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,}
+              D->，F,}
+              F->，w(J){D},
+              F->w(J){，D},
+              F->，w(J){D},a
+              F->w(J){，D},a
+              F->，w(J){D},c
+              F->w(J){，D},c
+              F->，w(J){D},d
+              F->w(J){，D},d
+              F->，w(J){D},e
+              F->w(J){，D},e
+              F->，w(J){D},f
+              F->w(J){，D},f
+              F->，w(J){D},i
+              F->w(J){，D},i
+              F->，w(J){D},k
+              F->w(J){，D},k
+              F->，w(J){D},o
+              F->w(J){，D},o
+              F->，w(J){D},w
+              F->w(J){，D},w
+              D->，o;,}
+              D->，a;,}
+
+          I68 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              D->A，D,}
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->A，,}
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I69 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->B，D,}
+              D->，B,
+              D->B，,}
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I70 :
+              F->w(J){D，},
+              F->w(J){D，},a
+              F->w(J){D，},c
+              F->w(J){D，},d
+              F->w(J){D，},e
+              F->w(J){D，},f
+              F->w(J){D，},i
+              F->w(J){D，},k
+              F->w(J){D，},o
+              F->w(J){D，},w
+
+          I71 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->E，D,}
+              D->，E,
+              D->E，,}
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I72 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->F，D,}
+              D->，F,
+              D->F，,}
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I73 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->P，D,}
+              D->，P,
+              D->P，,}
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I74 :
+              D->a，;,}
+
+          I75 :
+              D->o，;,}
+
+          I76 :
+              D->o;，,}
+
+          I77 :
+              D->o;，,}
+
+          I78 :
+              D->a;，,}
+
+          I79 :
+              D->P，,}
+
+          I80 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              D->A，D,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->A，,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I81 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->B，D,
+              D->，B,
+              D->B，,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I82 :
+              D->PD，,}
+
+          I83 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->E，D,
+              D->，E,
+              D->E，,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I84 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->，P,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->F，D,
+              D->，F,
+              D->F，,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I85 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,
+              D->，PD,
+              D->P，D,
+              D->，P,
+              D->P，,
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,
+              D->，B,
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,
+              D->，E,
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,
+              D->，F,
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,
+              D->，a;,
+
+          I86 :
+              D->a，;,
+
+          I87 :
+              D->o，;,
+
+          I88 :
+              D->o;，,
+
+          I89 :
+              D->o;，,
+
+          I90 :
+              D->a;，,
+
+          I91 :
+              D->P，,
+
+          I92 :
+              D->PD，,
+
+          I93 :
+              D->PD，,
+
+          I94 :
+              D->F，,
+
+          I95 :
+              D->FD，,
+
+          I96 :
+              D->FD，,
+
+          I97 :
+              D->E，,
+
+          I98 :
+              D->ED，,
+
+          I99 :
+              D->ED，,
+
+          I100 :
+              D->PD，,}
+
+          I101 :
+              D->B，,
+
+          I102 :
+              D->BD，,
+
+          I103 :
+              D->BD，,
+
+          I104 :
+              D->A，,
+
+          I105 :
+              D->AD，,
+
+          I106 :
+              D->AD，,
+
+          I107 :
+              D->F，,}
+
+          I108 :
+              D->FD，,}
+
+          I109 :
+              D->FD，,}
+
+          I110 :
+              D->E，,}
+
+          I111 :
+              D->ED，,}
+
+          I112 :
+              D->ED，,}
+
+          I113 :
+              F->w(J){D}，,
+              F->w(J){D}，,a
+              F->w(J){D}，,c
+              F->w(J){D}，,d
+              F->w(J){D}，,e
+              F->w(J){D}，,f
+              F->w(J){D}，,i
+              F->w(J){D}，,k
+              F->w(J){D}，,o
+              F->w(J){D}，,w
+
+          I114 :
+              F->w(J){D}，,
+              F->w(J){D}，,a
+              F->w(J){D}，,c
+              F->w(J){D}，,d
+              F->w(J){D}，,e
+              F->w(J){D}，,f
+              F->w(J){D}，,i
+              F->w(J){D}，,k
+              F->w(J){D}，,o
+              F->w(J){D}，,w
+
+          I115 :
+              D->B，,}
+
+          I116 :
+              D->BD，,}
+
+          I117 :
+              D->BD，,}
+
+          I118 :
+              D->A，,}
+
+          I119 :
+              D->AD，,}
+
+          I120 :
+              D->AD，,}
+
+          I121 :
+              K->6，,
+
+          I122 :
+              K->5，,
+
+          I123 :
+              K->4，,
+
+          I124 :
+              K->3，,
+
+          I125 :
+              K->2，,
+
+          I126 :
+              K->1，,
+
+          I127 :
+              D->o;，,r
+
+          I128 :
+              D->o;，,r
+
+          I129 :
+              P->kk，k;,
+              P->kk，k;,a
+              P->kk，k;,c
+              P->kk，k;,d
+              P->kk，k;,e
+              P->kk，k;,f
+              P->kk，k;,i
+              P->kk，k;,k
+              P->kk，k;,o
+              P->kk，k;,w
+
+          I130 :
+              P->kkk，;,
+              P->kkk，;,a
+              P->kkk，;,c
+              P->kkk，;,d
+              P->kkk，;,e
+              P->kkk，;,f
+              P->kkk，;,i
+              P->kkk，;,k
+              P->kkk，;,o
+              P->kkk，;,w
+
+          I131 :
+              P->kkk;，,
+              P->kkk;，,a
+              P->kkk;，,c
+              P->kkk;，,d
+              P->kkk;，,e
+              P->kkk;，,f
+              P->kkk;，,i
+              P->kkk;，,k
+              P->kkk;，,o
+              P->kkk;，,w
+
+          I132 :
+              P->kkk;，,
+              P->kkk;，,a
+              P->kkk;，,c
+              P->kkk;，,d
+              P->kkk;，,e
+              P->kkk;，,f
+              P->kkk;，,i
+              P->kkk;，,k
+              P->kkk;，,o
+              P->kkk;，,w
+
+          I133 :
+              P->，kkk;,e
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              P->，Ye=M;,e
+              E->f(，PebK;U){D},
+              E->f(，PebK;U){D},a
+              E->f(，PebK;U){D},c
+              E->f(，PebK;U){D},d
+              E->f(，PebK;U){D},e
+              E->f(，PebK;U){D},f
+              E->f(，PebK;U){D},i
+              E->f(，PebK;U){D},k
+              E->f(，PebK;U){D},o
+              E->f(，PebK;U){D},w
+
+          I134 :
+              E->f(P，ebK;U){D},
+              E->f(P，ebK;U){D},a
+              E->f(P，ebK;U){D},c
+              E->f(P，ebK;U){D},d
+              E->f(P，ebK;U){D},e
+              E->f(P，ebK;U){D},f
+              E->f(P，ebK;U){D},i
+              E->f(P，ebK;U){D},k
+              E->f(P，ebK;U){D},o
+              E->f(P，ebK;U){D},w
+
+          I135 :
+              P->Y，e=M;,e
+
+          I136 :
+              P->k，kk;,e
+
+          I137 :
+              P->kk，k;,e
+
+          I138 :
+              P->kkk，;,e
+
+          I139 :
+              P->kkk;，,e
+
+          I140 :
+              P->kkk;，,e
+
+          I141 :
+              P->Ye，=M;,e
+
+          I142 :
+              M->，{DrK;},;
+              M->，{DrK;},s
+              K->，1,
+              K->，1,;
+              K->，2,
+              K->，2,;
+              K->，3,
+              K->，3,;
+              K->，4,
+              K->，4,;
+              K->，5,
+              K->，5,;
+              K->，6,
+              K->，6,;
+              P->Ye=，M;,e
+              M->，K;,;
+              M->，K;,s
+              M->，e;,;
+              M->，e;,s
+              M->，J,;
+              M->，J,s
+              J->，K,
+              J->，e,
+              M->，MsM,;
+              M->，MsM,s
+              M->，sM,;
+              M->，sM,s
+
+          I143 :
+              P->Ye=M，;,e
+              M->M，sM,;
+              M->M，sM,s
+
+          I144 :
+              P->Ye=M;，,e
+
+          I145 :
+              M->，{DrK;},
+              M->，{DrK;},s
+              K->，1,
+              K->，1,;
+              K->，2,
+              K->，2,;
+              K->，3,
+              K->，3,;
+              K->，4,
+              K->，4,;
+              K->，5,
+              K->，5,;
+              K->，6,
+              K->，6,;
+              M->，K;,
+              M->，K;,s
+              M->，e;,
+              M->，e;,s
+              M->，J,
+              M->，J,s
+              J->，K,
+              J->，e,
+              M->，MsM,
+              M->Ms，M,;
+              M->，MsM,s
+              M->Ms，M,s
+              M->，sM,
+              M->，sM,s
+
+          I146 :
+              M->J，,
+              M->J，,s
+
+          I147 :
+              M->K，;,
+              M->K，;,s
+              J->K，,
+
+          I148 :
+              M->M，sM,
+              M->MsM，,;
+              M->M，sM,s
+              M->MsM，,s
+
+          I149 :
+              M->e，;,
+              M->e，;,s
+              J->e，,
+
+          I150 :
+              M->，{DrK;},
+              M->，{DrK;},s
+              K->，1,
+              K->，1,;
+              K->，2,
+              K->，2,;
+              K->，3,
+              K->，3,;
+              K->，4,
+              K->，4,;
+              K->，5,
+              K->，5,;
+              K->，6,
+              K->，6,;
+              M->，K;,
+              M->，K;,s
+              M->，e;,
+              M->，e;,s
+              M->，J,
+              M->，J,s
+              J->，K,
+              J->，e,
+              M->，MsM,
+              M->，MsM,s
+              M->，sM,
+              M->s，M,
+              M->，sM,s
+              M->s，M,s
+
+          I151 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              M->{，DrK;},
+              M->{，DrK;},s
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,r
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,r
+              D->，PD,r
+              D->，P,r
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,r
+              D->，B,r
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,r
+              D->，E,r
+              E->，f(PebK;U){D},
+              E->，f(PebK;U){D},a
+              E->，f(PebK;U){D},c
+              E->，f(PebK;U){D},d
+              E->，f(PebK;U){D},e
+              E->，f(PebK;U){D},f
+              E->，f(PebK;U){D},i
+              E->，f(PebK;U){D},k
+              E->，f(PebK;U){D},o
+              E->，f(PebK;U){D},w
+              D->，FD,r
+              D->，F,r
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,r
+              D->，a;,r
+
+          I152 :
+              M->{D，rK;},
+              M->{D，rK;},s
+
+          I153 :
+              M->{Dr，K;},
+              M->{Dr，K;},s
+              K->，1,;
+              K->，2,;
+              K->，3,;
+              K->，4,;
+              K->，5,;
+              K->，6,;
+
+          I154 :
+              K->1，,;
+
+          I155 :
+              K->2，,;
+
+          I156 :
+              K->3，,;
+
+          I157 :
+              K->4，,;
+
+          I158 :
+              K->5，,;
+
+          I159 :
+              K->6，,;
+
+          I160 :
+              M->{DrK，;},
+              M->{DrK，;},s
+
+          I161 :
+              M->{DrK;，},
+              M->{DrK;，},s
+
+          I162 :
+              M->{DrK;}，,
+              M->{DrK;}，,s
+
+          I163 :
+              M->{DrK;}，,
+              M->{DrK;}，,s
+
+          I164 :
+              K->6，,;
+
+          I165 :
+              K->5，,;
+
+          I166 :
+              K->4，,;
+
+          I167 :
+              K->3，,;
+
+          I168 :
+              K->2，,;
+
+          I169 :
+              K->1，,;
+
+          I170 :
+              M->M，sM,
+              M->M，sM,s
+              M->sM，,
+              M->sM，,s
+
+          I171 :
+              M->sM，,
+              M->sM，,s
+
+          I172 :
+              M->，{DrK;},
+              M->，{DrK;},s
+              K->，1,
+              K->，1,;
+              K->，2,
+              K->，2,;
+              K->，3,
+              K->，3,;
+              K->，4,
+              K->，4,;
+              K->，5,
+              K->，5,;
+              K->，6,
+              K->，6,;
+              M->，K;,
+              M->，K;,s
+              M->，e;,
+              M->，e;,s
+              M->，J,
+              M->，J,s
+              J->，K,
+              J->，e,
+              M->，MsM,
+              M->Ms，M,
+              M->，MsM,s
+              M->Ms，M,s
+              M->，sM,
+              M->，sM,s
+
+          I173 :
+              M->M，sM,
+              M->MsM，,
+              M->M，sM,s
+              M->MsM，,s
+
+          I174 :
+              M->MsM，,
+              M->MsM，,s
+
+          I175 :
+              J->e，,
+
+          I176 :
+              M->e;，,
+              M->e;，,s
+
+          I177 :
+              M->e;，,
+              M->e;，,s
+
+          I178 :
+              M->MsM，,;
+              M->MsM，,s
+
+          I179 :
+              J->K，,
+
+          I180 :
+              M->K;，,
+              M->K;，,s
+
+          I181 :
+              M->K;，,
+              M->K;，,s
+
+          I182 :
+              M->J，,
+              M->J，,s
+
+          I183 :
+              P->Ye=M;，,e
+
+          I184 :
+              E->f(Pe，bK;U){D},
+              E->f(Pe，bK;U){D},a
+              E->f(Pe，bK;U){D},c
+              E->f(Pe，bK;U){D},d
+              E->f(Pe，bK;U){D},e
+              E->f(Pe，bK;U){D},f
+              E->f(Pe，bK;U){D},i
+              E->f(Pe，bK;U){D},k
+              E->f(Pe，bK;U){D},o
+              E->f(Pe，bK;U){D},w
+
+          I185 :
+              K->，1,;
+              K->，2,;
+              K->，3,;
+              K->，4,;
+              K->，5,;
+              K->，6,;
+              E->f(Peb，K;U){D},
+              E->f(Peb，K;U){D},a
+              E->f(Peb，K;U){D},c
+              E->f(Peb，K;U){D},d
+              E->f(Peb，K;U){D},e
+              E->f(Peb，K;U){D},f
+              E->f(Peb，K;U){D},i
+              E->f(Peb，K;U){D},k
+              E->f(Peb，K;U){D},o
+              E->f(Peb，K;U){D},w
+
+          I186 :
+              E->f(PebK，;U){D},
+              E->f(PebK，;U){D},a
+              E->f(PebK，;U){D},c
+              E->f(PebK，;U){D},d
+              E->f(PebK，;U){D},e
+              E->f(PebK，;U){D},f
+              E->f(PebK，;U){D},i
+              E->f(PebK，;U){D},k
+              E->f(PebK，;U){D},o
+              E->f(PebK，;U){D},w
+
+          I187 :
+              E->f(PebK;，U){D},
+              E->f(PebK;，U){D},a
+              E->f(PebK;，U){D},c
+              E->f(PebK;，U){D},d
+              E->f(PebK;，U){D},e
+              E->f(PebK;，U){D},f
+              E->f(PebK;，U){D},i
+              E->f(PebK;，U){D},k
+              E->f(PebK;，U){D},o
+              E->f(PebK;，U){D},w
+              U->，eb,)
+              U->，be,)
+
+          I188 :
+              E->f(PebK;U，){D},
+              E->f(PebK;U，){D},a
+              E->f(PebK;U，){D},c
+              E->f(PebK;U，){D},d
+              E->f(PebK;U，){D},e
+              E->f(PebK;U，){D},f
+              E->f(PebK;U，){D},i
+              E->f(PebK;U，){D},k
+              E->f(PebK;U，){D},o
+              E->f(PebK;U，){D},w
+
+          I189 :
+              U->b，e,)
+
+          I190 :
+              U->e，b,)
+
+          I191 :
+              U->eb，,)
+
+          I192 :
+              U->eb，,)
+
+          I193 :
+              U->be，,)
+
+          I194 :
+              U->be，,)
+
+          I195 :
+              E->f(PebK;U)，{D},
+              E->f(PebK;U)，{D},a
+              E->f(PebK;U)，{D},c
+              E->f(PebK;U)，{D},d
+              E->f(PebK;U)，{D},e
+              E->f(PebK;U)，{D},f
+              E->f(PebK;U)，{D},i
+              E->f(PebK;U)，{D},k
+              E->f(PebK;U)，{D},o
+              E->f(PebK;U)，{D},w
+
+          I196 :
+              P->，kkk;,
+              P->，kkk;,a
+              P->，kkk;,c
+              P->，kkk;,d
+              P->，kkk;,e
+              P->，kkk;,f
+              P->，kkk;,i
+              P->，kkk;,k
+              P->，kkk;,o
+              P->，kkk;,w
+              Y->，i,e
+              Y->，d,e
+              Y->，f,e
+              Y->，c,e
+              D->，AD,}
+              A->，Ye;,
+              A->，Ye;,a
+              A->，Ye;,c
+              A->，Ye;,d
+              A->，Ye;,e
+              A->，Ye;,f
+              A->，Ye;,i
+              A->，Ye;,k
+              A->，Ye;,o
+              A->，Ye;,w
+              D->，A,}
+              D->，PD,}
+              D->，P,}
+              P->，Ye=M;,
+              P->，Ye=M;,a
+              P->，Ye=M;,c
+              P->，Ye=M;,d
+              P->，Ye=M;,e
+              P->，Ye=M;,f
+              P->，Ye=M;,i
+              P->，Ye=M;,k
+              P->，Ye=M;,o
+              P->，Ye=M;,w
+              D->，BD,}
+              D->，B,}
+              B->，e=M;,
+              B->，e=M;,a
+              B->，e=M;,c
+              B->，e=M;,d
+              B->，e=M;,e
+              B->，e=M;,f
+              B->，e=M;,i
+              B->，e=M;,k
+              B->，e=M;,o
+              B->，e=M;,w
+              D->，ED,}
+              D->，E,}
+              E->，f(PebK;U){D},
+              E->f(PebK;U){，D},
+              E->，f(PebK;U){D},a
+              E->f(PebK;U){，D},a
+              E->，f(PebK;U){D},c
+              E->f(PebK;U){，D},c
+              E->，f(PebK;U){D},d
+              E->f(PebK;U){，D},d
+              E->，f(PebK;U){D},e
+              E->f(PebK;U){，D},e
+              E->，f(PebK;U){D},f
+              E->f(PebK;U){，D},f
+              E->，f(PebK;U){D},i
+              E->f(PebK;U){，D},i
+              E->，f(PebK;U){D},k
+              E->f(PebK;U){，D},k
+              E->，f(PebK;U){D},o
+              E->f(PebK;U){，D},o
+              E->，f(PebK;U){D},w
+              E->f(PebK;U){，D},w
+              D->，FD,}
+              D->，F,}
+              F->，w(J){D},
+              F->，w(J){D},a
+              F->，w(J){D},c
+              F->，w(J){D},d
+              F->，w(J){D},e
+              F->，w(J){D},f
+              F->，w(J){D},i
+              F->，w(J){D},k
+              F->，w(J){D},o
+              F->，w(J){D},w
+              D->，o;,}
+              D->，a;,}
+
+          I197 :
+              E->f(PebK;U){D，},
+              E->f(PebK;U){D，},a
+              E->f(PebK;U){D，},c
+              E->f(PebK;U){D，},d
+              E->f(PebK;U){D，},e
+              E->f(PebK;U){D，},f
+              E->f(PebK;U){D，},i
+              E->f(PebK;U){D，},k
+              E->f(PebK;U){D，},o
+              E->f(PebK;U){D，},w
+
+          I198 :
+              E->f(PebK;U){D}，,
+              E->f(PebK;U){D}，,a
+              E->f(PebK;U){D}，,c
+              E->f(PebK;U){D}，,d
+              E->f(PebK;U){D}，,e
+              E->f(PebK;U){D}，,f
+              E->f(PebK;U){D}，,i
+              E->f(PebK;U){D}，,k
+              E->f(PebK;U){D}，,o
+              E->f(PebK;U){D}，,w
+
+          I199 :
+              E->f(PebK;U){D}，,
+              E->f(PebK;U){D}，,a
+              E->f(PebK;U){D}，,c
+              E->f(PebK;U){D}，,d
+              E->f(PebK;U){D}，,e
+              E->f(PebK;U){D}，,f
+              E->f(PebK;U){D}，,i
+              E->f(PebK;U){D}，,k
+              E->f(PebK;U){D}，,o
+              E->f(PebK;U){D}，,w
+
+          I200 :
+              M->，{DrK;},;
+              M->，{DrK;},s
+              K->，1,
+              K->，1,;
+              K->，2,
+              K->，2,;
+              K->，3,
+              K->，3,;
+              K->，4,
+              K->，4,;
+              K->，5,
+              K->，5,;
+              K->，6,
+              K->，6,;
+              B->e=，M;,
+              B->e=，M;,a
+              B->e=，M;,c
+              B->e=，M;,d
+              B->e=，M;,e
+              B->e=，M;,f
+              B->e=，M;,i
+              B->e=，M;,k
+              B->e=，M;,o
+              B->e=，M;,w
+              M->，K;,;
+              M->，K;,s
+              M->，e;,;
+              M->，e;,s
+              M->，J,;
+              M->，J,s
+              J->，K,
+              J->，e,
+              M->，MsM,;
+              M->，MsM,s
+              M->，sM,;
+              M->，sM,s
+
+          I201 :
+              B->e=M，;,
+              B->e=M，;,a
+              B->e=M，;,c
+              B->e=M，;,d
+              B->e=M，;,e
+              B->e=M，;,f
+              B->e=M，;,i
+              B->e=M，;,k
+              B->e=M，;,o
+              B->e=M，;,w
+              M->M，sM,;
+              M->M，sM,s
+
+          I202 :
+              B->e=M;，,
+              B->e=M;，,a
+              B->e=M;，,c
+              B->e=M;，,d
+              B->e=M;，,e
+              B->e=M;，,f
+              B->e=M;，,i
+              B->e=M;，,k
+              B->e=M;，,o
+              B->e=M;，,w
+
+          I203 :
+              B->e=M;，,
+              B->e=M;，,a
+              B->e=M;，,c
+              B->e=M;，,d
+              B->e=M;，,e
+              B->e=M;，,f
+              B->e=M;，,i
+              B->e=M;，,k
+              B->e=M;，,o
+              B->e=M;，,w
+
+          I204 :
+              D->a;，,r
+
+          I205 :
+              A->Ye，;,
+              A->Ye，;,a
+              A->Ye，;,c
+              A->Ye，;,d
+              A->Ye，;,e
+              A->Ye，;,f
+              A->Ye，;,i
+              A->Ye，;,k
+              A->Ye，;,o
+              A->Ye，;,w
+              P->Ye，=M;,
+              P->Ye，=M;,a
+              P->Ye，=M;,c
+              P->Ye，=M;,d
+              P->Ye，=M;,e
+              P->Ye，=M;,f
+              P->Ye，=M;,i
+              P->Ye，=M;,k
+              P->Ye，=M;,o
+              P->Ye，=M;,w
+
+          I206 :
+              A->Ye;，,
+              A->Ye;，,a
+              A->Ye;，,c
+              A->Ye;，,d
+              A->Ye;，,e
+              A->Ye;，,f
+              A->Ye;，,i
+              A->Ye;，,k
+              A->Ye;，,o
+              A->Ye;，,w
+
+          I207 :
+              M->，{DrK;},;
+              M->，{DrK;},s
+              K->，1,
+              K->，1,;
+              K->，2,
+              K->，2,;
+              K->，3,
+              K->，3,;
+              K->，4,
+              K->，4,;
+              K->，5,
+              K->，5,;
+              K->，6,
+              K->，6,;
+              P->Ye=，M;,
+              P->Ye=，M;,a
+              P->Ye=，M;,c
+              P->Ye=，M;,d
+              P->Ye=，M;,e
+              P->Ye=，M;,f
+              P->Ye=，M;,i
+              P->Ye=，M;,k
+              P->Ye=，M;,o
+              P->Ye=，M;,w
+              M->，K;,;
+              M->，K;,s
+              M->，e;,;
+              M->，e;,s
+              M->，J,;
+              M->，J,s
+              J->，K,
+              J->，e,
+              M->，MsM,;
+              M->，MsM,s
+              M->，sM,;
+              M->，sM,s
+
+          I208 :
+              P->Ye=M，;,
+              P->Ye=M，;,a
+              P->Ye=M，;,c
+              P->Ye=M，;,d
+              P->Ye=M，;,e
+              P->Ye=M，;,f
+              P->Ye=M，;,i
+              P->Ye=M，;,k
+              P->Ye=M，;,o
+              P->Ye=M，;,w
+              M->M，sM,;
+              M->M，sM,s
+
+          I209 :
+              P->Ye=M;，,
+              P->Ye=M;，,a
+              P->Ye=M;，,c
+              P->Ye=M;，,d
+              P->Ye=M;，,e
+              P->Ye=M;，,f
+              P->Ye=M;，,i
+              P->Ye=M;，,k
+              P->Ye=M;，,o
+              P->Ye=M;，,w
+
+          I210 :
+              P->Ye=M;，,
+              P->Ye=M;，,a
+              P->Ye=M;，,c
+              P->Ye=M;，,d
+              P->Ye=M;，,e
+              P->Ye=M;，,f
+              P->Ye=M;，,i
+              P->Ye=M;，,k
+              P->Ye=M;，,o
+              P->Ye=M;，,w
+
+          I211 :
+              A->Ye;，,
+              A->Ye;，,a
+              A->Ye;，,c
+              A->Ye;，,d
+              A->Ye;，,e
+              A->Ye;，,f
+              A->Ye;，,i
+              A->Ye;，,k
+              A->Ye;，,o
+              A->Ye;，,w
+
+          I212 :
+              D->P，,r
+
+          I213 :
+              D->PD，,r
+
+          I214 :
+              D->PD，,r
+
+          I215 :
+              D->F，,r
+
+          I216 :
+              D->FD，,r
+
+          I217 :
+              D->FD，,r
+
+          I218 :
+              D->E，,r
+
+          I219 :
+              D->ED，,r
+
+          I220 :
+              D->ED，,r
+
+          I221 :
+              M->{Dr，K;},;
+              M->{Dr，K;},s
+              K->，1,;
+              K->，2,;
+              K->，3,;
+              K->，4,;
+              K->，5,;
+              K->，6,;
+
+          I222 :
+              M->{DrK，;},;
+              M->{DrK，;},s
+
+          I223 :
+              M->{DrK;，},;
+              M->{DrK;，},s
+
+          I224 :
+              M->{DrK;}，,;
+              M->{DrK;}，,s
+
+          I225 :
+              M->{DrK;}，,;
+              M->{DrK;}，,s
+
+          I226 :
+              D->B，,r
+
+          I227 :
+              D->BD，,r
+
+          I228 :
+              D->BD，,r
+
+          I229 :
+              D->A，,r
+
+          I230 :
+              D->AD，,r
+
+          I231 :
+              D->AD，,r
+
+          I232 :
+              M->M，sM,
+              M->M，sM,s
+              M->sM，,;
+              M->sM，,s
+
+          I233 :
+              M->sM，,;
+              M->sM，,s
+
+          I234 :
+              M->e;，,;
+              M->e;，,s
+
+          I235 :
+              M->e;，,;
+              M->e;，,s
+
+          I236 :
+              P->Ye=M;，,
+              P->Ye=M;，,c
+              P->Ye=M;，,d
+              P->Ye=M;，,f
+              P->Ye=M;，,i
+
+          I237 :
+              P->Ye=M;，,
+              P->Ye=M;，,c
+              P->Ye=M;，,d
+              P->Ye=M;，,f
+              P->Ye=M;，,i
+
+          I238 :
+              M->K;，,;
+              M->K;，,s
+
+          I239 :
+              M->K;，,;
+              M->K;，,s
+
+          I240 :
+              M->J，,;
+              M->J，,s
+
+          I241 :
+              K->6，,
+              K->6，,;
+
+          I242 :
+              K->5，,
+              K->5，,;
+
+          I243 :
+              K->4，,
+              K->4，,;
+
+          I244 :
+              K->3，,
+              K->3，,;
+
+          I245 :
+              K->2，,
+              K->2，,;
+
+          I246 :
+              K->1，,
+              K->1，,;
+
+          I247 :
+              S->HPI，,#
+
+          I248 :
+              I->Y，m()M,
+
+          I249 :
+              Y->c，,m
+
+          I250 :
+              Y->d，,m
+
+          I251 :
+              Y->f，,m
+
+          I252 :
+              Y->i，,m
+
+          I253 :
+              Y->i，,m
+
+          I254 :
+              Y->f，,m
+
+          I255 :
+              Y->d，,m
+
+          I256 :
+              Y->c，,m
+
+          I257 :
+              I->Ym，()M,
+
+          I258 :
+              I->Ym(，)M,
+
+          I259 :
+              I->Ym()，M,
+              M->，{DrK;},
+              M->，{DrK;},s
+              K->，1,
+              K->，1,;
+              K->，2,
+              K->，2,;
+              K->，3,
+              K->，3,;
+              K->，4,
+              K->，4,;
+              K->，5,
+              K->，5,;
+              K->，6,
+              K->，6,;
+              M->，K;,
+              M->，K;,s
+              M->，e;,
+              M->，e;,s
+              M->，J,
+              M->，J,s
+              J->，K,
+              J->，e,
+              M->，MsM,
+              M->，MsM,s
+              M->，sM,
+              M->，sM,s
+
+          I260 :
+              I->Ym()M，,
+              M->M，sM,
+              M->M，sM,s
+
+          I261 :
+              I->Ym()M，,
+
+          I262 :
+              S->HPI，,#
+
+          I263 :
+              O->#k，<k>,
+              O->#k，<k>,#
+
+          I264 :
+              O->#k<，k>,
+              O->#k<，k>,#
+
+          I265 :
+              O->#k<k，>,
+              O->#k<k，>,#
+
+          I266 :
+              O->#k<k>，,
+              O->#k<k>，,#
+
+          I267 :
+              O->#k<k>，,
+              O->#k<k>，,#
+
+�酊深�廬晒購狼 ( MOVE_MATRIX ) : 
+         I_before     Vt      I_after
+           I0         #         I1
+           I0         H         I2
+           I0         O         I3
+           I0         S         I4
+           I1         k         I263
+           I2         P         I12
+           I2         Y         I13
+           I2         c         I14
+           I2         d         I15
+           I2         f         I16
+           I2         i         I17
+           I2         k         I18
+           I3                  I5
+           I3         #         I1
+           I3         H         I6
+           I3         O         I7
+           I6                  I11
+           I7                  I8
+           I7         #         I1
+           I7         H         I9
+           I7         O         I7
+           I9                  I10
+           I12         I         I247
+           I12         Y         I248
+           I12         c         I249
+           I12         d         I250
+           I12         f         I251
+           I12         i         I252
+           I13         e         I27
+           I14                  I26
+           I15                  I25
+           I16                  I24
+           I17                  I23
+           I18         k         I19
+           I19         k         I20
+           I20         ;         I21
+           I21                  I22
+           I27         =         I28
+           I28         1         I29
+           I28         2         I30
+           I28         3         I31
+           I28         4         I32
+           I28         5         I33
+           I28         6         I34
+           I28         J         I35
+           I28         K         I36
+           I28         M         I37
+           I28         e         I38
+           I28         s         I39
+           I28         {         I40
+           I29                  I246
+           I30                  I245
+           I31                  I244
+           I32                  I243
+           I33                  I242
+           I34                  I241
+           I35                  I240
+           I36                  I179
+           I36         ;         I238
+           I37         ;         I236
+           I37         s         I145
+           I38                  I175
+           I38         ;         I234
+           I39         1         I29
+           I39         2         I30
+           I39         3         I31
+           I39         4         I32
+           I39         5         I33
+           I39         6         I34
+           I39         J         I146
+           I39         K         I147
+           I39         M         I232
+           I39         e         I149
+           I39         s         I150
+           I39         {         I151
+           I40         A         I41
+           I40         B         I42
+           I40         D         I43
+           I40         E         I44
+           I40         F         I45
+           I40         P         I46
+           I40         Y         I47
+           I40         a         I48
+           I40         c         I14
+           I40         d         I15
+           I40         e         I49
+           I40         f         I50
+           I40         i         I17
+           I40         k         I51
+           I40         o         I52
+           I40         w         I53
+           I41                  I229
+           I41         A         I80
+           I41         B         I81
+           I41         D         I230
+           I41         E         I83
+           I41         F         I84
+           I41         P         I85
+           I41         Y         I47
+           I41         a         I86
+           I41         c         I14
+           I41         d         I15
+           I41         e         I49
+           I41         f         I50
+           I41         i         I17
+           I41         k         I51
+           I41         o         I87
+           I41         w         I53
+           I42                  I226
+           I42         A         I80
+           I42         B         I81
+           I42         D         I227
+           I42         E         I83
+           I42         F         I84
+           I42         P         I85
+           I42         Y         I47
+           I42         a         I86
+           I42         c         I14
+           I42         d         I15
+           I42         e         I49
+           I42         f         I50
+           I42         i         I17
+           I42         k         I51
+           I42         o         I87
+           I42         w         I53
+           I43         r         I221
+           I44                  I218
+           I44         A         I80
+           I44         B         I81
+           I44         D         I219
+           I44         E         I83
+           I44         F         I84
+           I44         P         I85
+           I44         Y         I47
+           I44         a         I86
+           I44         c         I14
+           I44         d         I15
+           I44         e         I49
+           I44         f         I50
+           I44         i         I17
+           I44         k         I51
+           I44         o         I87
+           I44         w         I53
+           I45                  I215
+           I45         A         I80
+           I45         B         I81
+           I45         D         I216
+           I45         E         I83
+           I45         F         I84
+           I45         P         I85
+           I45         Y         I47
+           I45         a         I86
+           I45         c         I14
+           I45         d         I15
+           I45         e         I49
+           I45         f         I50
+           I45         i         I17
+           I45         k         I51
+           I45         o         I87
+           I45         w         I53
+           I46                  I212
+           I46         A         I80
+           I46         B         I81
+           I46         D         I213
+           I46         E         I83
+           I46         F         I84
+           I46         P         I85
+           I46         Y         I47
+           I46         a         I86
+           I46         c         I14
+           I46         d         I15
+           I46         e         I49
+           I46         f         I50
+           I46         i         I17
+           I46         k         I51
+           I46         o         I87
+           I46         w         I53
+           I47         e         I205
+           I48         ;         I204
+           I49         =         I200
+           I50                  I24
+           I50         (         I133
+           I51         k         I129
+           I52         ;         I127
+           I53         (         I54
+           I54         1         I55
+           I54         2         I56
+           I54         3         I57
+           I54         4         I58
+           I54         5         I59
+           I54         6         I60
+           I54         J         I61
+           I54         K         I62
+           I54         e         I63
+           I55                  I126
+           I56                  I125
+           I57                  I124
+           I58                  I123
+           I59                  I122
+           I60                  I121
+           I61         )         I66
+           I62                  I65
+           I63                  I64
+           I66         {         I67
+           I67         A         I68
+           I67         B         I69
+           I67         D         I70
+           I67         E         I71
+           I67         F         I72
+           I67         P         I73
+           I67         Y         I47
+           I67         a         I74
+           I67         c         I14
+           I67         d         I15
+           I67         e         I49
+           I67         f         I50
+           I67         i         I17
+           I67         k         I51
+           I67         o         I75
+           I67         w         I53
+           I68                  I118
+           I68         A         I80
+           I68         B         I81
+           I68         D         I119
+           I68         E         I83
+           I68         F         I84
+           I68         P         I85
+           I68         Y         I47
+           I68         a         I86
+           I68         c         I14
+           I68         d         I15
+           I68         e         I49
+           I68         f         I50
+           I68         i         I17
+           I68         k         I51
+           I68         o         I87
+           I68         w         I53
+           I69                  I115
+           I69         A         I80
+           I69         B         I81
+           I69         D         I116
+           I69         E         I83
+           I69         F         I84
+           I69         P         I85
+           I69         Y         I47
+           I69         a         I86
+           I69         c         I14
+           I69         d         I15
+           I69         e         I49
+           I69         f         I50
+           I69         i         I17
+           I69         k         I51
+           I69         o         I87
+           I69         w         I53
+           I70         }         I113
+           I71                  I110
+           I71         A         I80
+           I71         B         I81
+           I71         D         I111
+           I71         E         I83
+           I71         F         I84
+           I71         P         I85
+           I71         Y         I47
+           I71         a         I86
+           I71         c         I14
+           I71         d         I15
+           I71         e         I49
+           I71         f         I50
+           I71         i         I17
+           I71         k         I51
+           I71         o         I87
+           I71         w         I53
+           I72                  I107
+           I72         A         I80
+           I72         B         I81
+           I72         D         I108
+           I72         E         I83
+           I72         F         I84
+           I72         P         I85
+           I72         Y         I47
+           I72         a         I86
+           I72         c         I14
+           I72         d         I15
+           I72         e         I49
+           I72         f         I50
+           I72         i         I17
+           I72         k         I51
+           I72         o         I87
+           I72         w         I53
+           I73                  I79
+           I73         A         I80
+           I73         B         I81
+           I73         D         I82
+           I73         E         I83
+           I73         F         I84
+           I73         P         I85
+           I73         Y         I47
+           I73         a         I86
+           I73         c         I14
+           I73         d         I15
+           I73         e         I49
+           I73         f         I50
+           I73         i         I17
+           I73         k         I51
+           I73         o         I87
+           I73         w         I53
+           I74         ;         I78
+           I75         ;         I76
+           I76                  I77
+           I80                  I104
+           I80         A         I80
+           I80         B         I81
+           I80         D         I105
+           I80         E         I83
+           I80         F         I84
+           I80         P         I85
+           I80         Y         I47
+           I80         a         I86
+           I80         c         I14
+           I80         d         I15
+           I80         e         I49
+           I80         f         I50
+           I80         i         I17
+           I80         k         I51
+           I80         o         I87
+           I80         w         I53
+           I81                  I101
+           I81         A         I80
+           I81         B         I81
+           I81         D         I102
+           I81         E         I83
+           I81         F         I84
+           I81         P         I85
+           I81         Y         I47
+           I81         a         I86
+           I81         c         I14
+           I81         d         I15
+           I81         e         I49
+           I81         f         I50
+           I81         i         I17
+           I81         k         I51
+           I81         o         I87
+           I81         w         I53
+           I82                  I100
+           I83                  I97
+           I83         A         I80
+           I83         B         I81
+           I83         D         I98
+           I83         E         I83
+           I83         F         I84
+           I83         P         I85
+           I83         Y         I47
+           I83         a         I86
+           I83         c         I14
+           I83         d         I15
+           I83         e         I49
+           I83         f         I50
+           I83         i         I17
+           I83         k         I51
+           I83         o         I87
+           I83         w         I53
+           I84                  I94
+           I84         A         I80
+           I84         B         I81
+           I84         D         I95
+           I84         E         I83
+           I84         F         I84
+           I84         P         I85
+           I84         Y         I47
+           I84         a         I86
+           I84         c         I14
+           I84         d         I15
+           I84         e         I49
+           I84         f         I50
+           I84         i         I17
+           I84         k         I51
+           I84         o         I87
+           I84         w         I53
+           I85                  I91
+           I85         A         I80
+           I85         B         I81
+           I85         D         I92
+           I85         E         I83
+           I85         F         I84
+           I85         P         I85
+           I85         Y         I47
+           I85         a         I86
+           I85         c         I14
+           I85         d         I15
+           I85         e         I49
+           I85         f         I50
+           I85         i         I17
+           I85         k         I51
+           I85         o         I87
+           I85         w         I53
+           I86         ;         I90
+           I87         ;         I88
+           I88                  I89
+           I92                  I93
+           I95                  I96
+           I98                  I99
+           I102                  I103
+           I105                  I106
+           I108                  I109
+           I111                  I112
+           I113                  I114
+           I116                  I117
+           I119                  I120
+           I127                  I128
+           I129         k         I130
+           I130         ;         I131
+           I131                  I132
+           I133         P         I134
+           I133         Y         I135
+           I133         c         I14
+           I133         d         I15
+           I133         f         I16
+           I133         i         I17
+           I133         k         I136
+           I134         e         I184
+           I135         e         I141
+           I136         k         I137
+           I137         k         I138
+           I138         ;         I139
+           I139                  I140
+           I141         =         I142
+           I142         1         I29
+           I142         2         I30
+           I142         3         I31
+           I142         4         I32
+           I142         5         I33
+           I142         6         I34
+           I142         J         I35
+           I142         K         I36
+           I142         M         I143
+           I142         e         I38
+           I142         s         I39
+           I142         {         I40
+           I143         ;         I144
+           I143         s         I145
+           I144                  I183
+           I145         1         I29
+           I145         2         I30
+           I145         3         I31
+           I145         4         I32
+           I145         5         I33
+           I145         6         I34
+           I145         J         I146
+           I145         K         I147
+           I145         M         I148
+           I145         e         I149
+           I145         s         I150
+           I145         {         I151
+           I146                  I182
+           I147                  I179
+           I147         ;         I180
+           I148                  I178
+           I148         s         I172
+           I149                  I175
+           I149         ;         I176
+           I150         1         I29
+           I150         2         I30
+           I150         3         I31
+           I150         4         I32
+           I150         5         I33
+           I150         6         I34
+           I150         J         I146
+           I150         K         I147
+           I150         M         I170
+           I150         e         I149
+           I150         s         I150
+           I150         {         I151
+           I151         A         I41
+           I151         B         I42
+           I151         D         I152
+           I151         E         I44
+           I151         F         I45
+           I151         P         I46
+           I151         Y         I47
+           I151         a         I48
+           I151         c         I14
+           I151         d         I15
+           I151         e         I49
+           I151         f         I50
+           I151         i         I17
+           I151         k         I51
+           I151         o         I52
+           I151         w         I53
+           I152         r         I153
+           I153         1         I154
+           I153         2         I155
+           I153         3         I156
+           I153         4         I157
+           I153         5         I158
+           I153         6         I159
+           I153         K         I160
+           I154                  I169
+           I155                  I168
+           I156                  I167
+           I157                  I166
+           I158                  I165
+           I159                  I164
+           I160         ;         I161
+           I161         }         I162
+           I162                  I163
+           I170                  I171
+           I170         s         I172
+           I172         1         I29
+           I172         2         I30
+           I172         3         I31
+           I172         4         I32
+           I172         5         I33
+           I172         6         I34
+           I172         J         I146
+           I172         K         I147
+           I172         M         I173
+           I172         e         I149
+           I172         s         I150
+           I172         {         I151
+           I173                  I174
+           I173         s         I172
+           I176                  I177
+           I180                  I181
+           I184         b         I185
+           I185         1         I154
+           I185         2         I155
+           I185         3         I156
+           I185         4         I157
+           I185         5         I158
+           I185         6         I159
+           I185         K         I186
+           I186         ;         I187
+           I187         U         I188
+           I187         b         I189
+           I187         e         I190
+           I188         )         I195
+           I189         e         I193
+           I190         b         I191
+           I191                  I192
+           I193                  I194
+           I195         {         I196
+           I196         A         I68
+           I196         B         I69
+           I196         D         I197
+           I196         E         I71
+           I196         F         I72
+           I196         P         I73
+           I196         Y         I47
+           I196         a         I74
+           I196         c         I14
+           I196         d         I15
+           I196         e         I49
+           I196         f         I50
+           I196         i         I17
+           I196         k         I51
+           I196         o         I75
+           I196         w         I53
+           I197         }         I198
+           I198                  I199
+           I200         1         I29
+           I200         2         I30
+           I200         3         I31
+           I200         4         I32
+           I200         5         I33
+           I200         6         I34
+           I200         J         I35
+           I200         K         I36
+           I200         M         I201
+           I200         e         I38
+           I200         s         I39
+           I200         {         I40
+           I201         ;         I202
+           I201         s         I145
+           I202                  I203
+           I205         ;         I206
+           I205         =         I207
+           I206                  I211
+           I207         1         I29
+           I207         2         I30
+           I207         3         I31
+           I207         4         I32
+           I207         5         I33
+           I207         6         I34
+           I207         J         I35
+           I207         K         I36
+           I207         M         I208
+           I207         e         I38
+           I207         s         I39
+           I207         {         I40
+           I208         ;         I209
+           I208         s         I145
+           I209                  I210
+           I213                  I214
+           I216                  I217
+           I219                  I220
+           I221         1         I154
+           I221         2         I155
+           I221         3         I156
+           I221         4         I157
+           I221         5         I158
+           I221         6         I159
+           I221         K         I222
+           I222         ;         I223
+           I223         }         I224
+           I224                  I225
+           I227                  I228
+           I230                  I231
+           I232                  I233
+           I232         s         I172
+           I234                  I235
+           I236                  I237
+           I238                  I239
+           I247                  I262
+           I248         m         I257
+           I249                  I256
+           I250                  I255
+           I251                  I254
+           I252                  I253
+           I257         (         I258
+           I258         )         I259
+           I259         1         I29
+           I259         2         I30
+           I259         3         I31
+           I259         4         I32
+           I259         5         I33
+           I259         6         I34
+           I259         J         I146
+           I259         K         I147
+           I259         M         I260
+           I259         e         I149
+           I259         s         I150
+           I259         {         I151
+           I260                  I261
+           I260         s         I172
+           I263         <         I264
+           I264         k         I265
+           I265         >         I266
+           I266                  I267
+                            LR(1) GOTO-ACTION 燕
+             #       (       )       1       2       3       4       5       6       ;       <       =       >       a       b       c       d       e       f       i       k       m       o       r       s       w       {       }       A       B       D       E       F       H       I       J       K       M       O       P       S       U       Y       
+ 0            S1                                                                                                                                                                                                                          |                                           2                                       3               4                       
+ 1                                                                                                                                                                            S263                                                        |                                                                                                                           
+ 2                                                                                                                                    S14     S15             S16     S17     S18                                                         |                                                                                           12                      13      
+ 3    S5      S1                                                                                                                                                                                                                          |                                           6                                       7                                       
+ 4            acc                                                                                                                                                                                                                         |                                                                                                                           
+ 5    r2                                                                                                                              r2      r2              r2      r2      r2                                                          |                                                                                                                           
+ 6    S11                                                                                                                                                                                                                                 |                                                                                                                           
+ 7    S8      S1                                                                                                                                                                                                                          |                                           9                                       7                                       
+ 8    r2                                                                                                                                                                                                                                  |                                                                                                                           
+ 9    S10                                                                                                                                                                                                                                 |                                                                                                                           
+ 10   r4                                                                                                                                                                                                                                  |                                                                                                                           
+ 11   r4                                                                                                                              r4      r4              r4      r4      r4                                                          |                                                                                                                           
+ 12                                                                                                                                   S249    S250            S251    S252                                                                |                                                   247                                                             248     
+ 13                                                                                                                                                   S27                                                                                 |                                                                                                                           
+ 14   S26                                                                                                                                                                                                                                 |                                                                                                                           
+ 15   S25                                                                                                                                                                                                                                 |                                                                                                                           
+ 16   S24                                                                                                                                                                                                                                 |                                                                                                                           
+ 17   S23                                                                                                                                                                                                                                 |                                                                                                                           
+ 18                                                                                                                                                                           S19                                                         |                                                                                                                           
+ 19                                                                                                                                                                           S20                                                         |                                                                                                                           
+ 20                                                                                   S21                                                                                                                                                 |                                                                                                                           
+ 21   S22                                                                                                                                                                                                                                 |                                                                                                                           
+ 22   r5                                                                                                                              r5      r5              r5      r5                                                                  |                                                                                                                           
+ 23                                                                                                                                                   r14                                                                                 |                                                                                                                           
+ 24                                                                                                                                                   r16                                                                                 |                                                                                                                           
+ 25                                                                                                                                                   r15                                                                                 |                                                                                                                           
+ 26                                                                                                                                                   r17                                                                                 |                                                                                                                           
+ 27                                                                                                   S28                                                                                                                                 |                                                                                                                           
+ 28                                   S29     S30     S31     S32     S33     S34                                                                     S38                                                     S39             S40         |                                                           35      36      37                                              
+ 29   S246                                                                                                                                                                                                                                |                                                                                                                           
+ 30   S245                                                                                                                                                                                                                                |                                                                                                                           
+ 31   S244                                                                                                                                                                                                                                |                                                                                                                           
+ 32   S243                                                                                                                                                                                                                                |                                                                                                                           
+ 33   S242                                                                                                                                                                                                                                |                                                                                                                           
+ 34   S241                                                                                                                                                                                                                                |                                                                                                                           
+ 35   S240                                                                                                                                                                                                                                |                                                                                                                           
+ 36   S179                                                                            S238                                                                                                                                                |                                                                                                                           
+ 37                                                                                   S236                                                                                                                    S145                        |                                                                                                                           
+ 38   S175                                                                            S234                                                                                                                                                |                                                                                                                           
+ 39                                   S29     S30     S31     S32     S33     S34                                                                     S149                                                    S150            S151        |                                                           146     147     232                                             
+ 40                                                                                                                   S48             S14     S15     S49     S50     S17     S51             S52                     S53                 |   41      42      43      44      45                                                      46                      47      
+ 41   S229                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      230     83      84                                                      85                      47      
+ 42   S226                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      227     83      84                                                      85                      47      
+ 43                                                                                                                                                                                                   S221                                |                                                                                                                           
+ 44   S218                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      219     83      84                                                      85                      47      
+ 45   S215                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      216     83      84                                                      85                      47      
+ 46   S212                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      213     83      84                                                      85                      47      
+ 47                                                                                                                                                   S205                                                                                |                                                                                                                           
+ 48                                                                                   S204                                                                                                                                                |                                                                                                                           
+ 49                                                                                                   S200                                                                                                                                |                                                                                                                           
+ 50   S24             S133                                                                                                                                                                                                                |                                                                                                                           
+ 51                                                                                                                                                                           S129                                                        |                                                                                                                           
+ 52                                                                                   S127                                                                                                                                                |                                                                                                                           
+ 53                   S54                                                                                                                                                                                                                 |                                                                                                                           
+ 54                                   S55     S56     S57     S58     S59     S60                                                                     S63                                                                                 |                                                           61      62                                                      
+ 55   S126                                                                                                                                                                                                                                |                                                                                                                           
+ 56   S125                                                                                                                                                                                                                                |                                                                                                                           
+ 57   S124                                                                                                                                                                                                                                |                                                                                                                           
+ 58   S123                                                                                                                                                                                                                                |                                                                                                                           
+ 59   S122                                                                                                                                                                                                                                |                                                                                                                           
+ 60   S121                                                                                                                                                                                                                                |                                                                                                                           
+ 61                           S66                                                                                                                                                                                                         |                                                                                                                           
+ 62   S65                                                                                                                                                                                                                                 |                                                                                                                           
+ 63   S64                                                                                                                                                                                                                                 |                                                                                                                           
+ 64                           r31                                                                                                                                                                                                         |                                                                                                                           
+ 65                           r30                                                                                                                                                                                                         |                                                                                                                           
+ 66                                                                                                                                                                                                                           S67         |                                                                                                                           
+ 67                                                                                                                   S74             S14     S15     S49     S50     S17     S51             S75                     S53                 |   68      69      70      71      72                                                      73                      47      
+ 68   S118                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      119     83      84                                                      85                      47      
+ 69   S115                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      116     83      84                                                      85                      47      
+ 70                                                                                                                                                                                                                                   S113|                                                                                                                           
+ 71   S110                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      111     83      84                                                      85                      47      
+ 72   S107                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      108     83      84                                                      85                      47      
+ 73   S79                                                                                                             S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      82      83      84                                                      85                      47      
+ 74                                                                                   S78                                                                                                                                                 |                                                                                                                           
+ 75                                                                                   S76                                                                                                                                                 |                                                                                                                           
+ 76   S77                                                                                                                                                                                                                                 |                                                                                                                           
+ 77                                                                                                                                                                                                                                   r42 |                                                                                                                           
+ 78                                                                                                                                                                                                                                   r43 |                                                                                                                           
+ 79                                                                                                                                                                                                                                   r22 |                                                                                                                           
+ 80   S104                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      105     83      84                                                      85                      47      
+ 81   S101                                                                                                            S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      102     83      84                                                      85                      47      
+ 82   S100                                                                                                                                                                                                                                |                                                                                                                           
+ 83   S97                                                                                                             S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      98      83      84                                                      85                      47      
+ 84   S94                                                                                                             S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      95      83      84                                                      85                      47      
+ 85   S91                                                                                                             S86             S14     S15     S49     S50     S17     S51             S87                     S53                 |   80      81      92      83      84                                                      85                      47      
+ 86                                                                                   S90                                                                                                                                                 |                                                                                                                           
+ 87                                                                                   S88                                                                                                                                                 |                                                                                                                           
+ 88   S89                                                                                                                                                                                                                                 |                                                                                                                           
+ 89   r42                                                                                                                                                                                                                                 |                                                                                                                           
+ 90   r43                                                                                                                                                                                                                                 |                                                                                                                           
+ 91   r22                                                                                                                                                                                                                                 |                                                                                                                           
+ 92   S93                                                                                                                                                                                                                                 |                                                                                                                           
+ 93   r21                                                                                                                                                                                                                                 |                                                                                                                           
+ 94   r40                                                                                                                                                                                                                                 |                                                                                                                           
+ 95   S96                                                                                                                                                                                                                                 |                                                                                                                           
+ 96   r39                                                                                                                                                                                                                                 |                                                                                                                           
+ 97   r35                                                                                                                                                                                                                                 |                                                                                                                           
+ 98   S99                                                                                                                                                                                                                                 |                                                                                                                           
+ 99   r34                                                                                                                                                                                                                                 |                                                                                                                           
+ 100                                                                                                                                                                                                                                  r21 |                                                                                                                           
+ 101  r25                                                                                                                                                                                                                                 |                                                                                                                           
+ 102  S103                                                                                                                                                                                                                                |                                                                                                                           
+ 103  r24                                                                                                                                                                                                                                 |                                                                                                                           
+ 104  r20                                                                                                                                                                                                                                 |                                                                                                                           
+ 105  S106                                                                                                                                                                                                                                |                                                                                                                           
+ 106  r18                                                                                                                                                                                                                                 |                                                                                                                           
+ 107                                                                                                                                                                                                                                  r40 |                                                                                                                           
+ 108  S109                                                                                                                                                                                                                                |                                                                                                                           
+ 109                                                                                                                                                                                                                                  r39 |                                                                                                                           
+ 110                                                                                                                                                                                                                                  r35 |                                                                                                                           
+ 111  S112                                                                                                                                                                                                                                |                                                                                                                           
+ 112                                                                                                                                                                                                                                  r34 |                                                                                                                           
+ 113  S114                                                                                                                                                                                                                                |                                                                                                                           
+ 114  r41                                                                                                             r41             r41     r41     r41     r41     r41     r41             r41                     r41                 |                                                                                                                           
+ 115                                                                                                                                                                                                                                  r25 |                                                                                                                           
+ 116  S117                                                                                                                                                                                                                                |                                                                                                                           
+ 117                                                                                                                                                                                                                                  r24 |                                                                                                                           
+ 118                                                                                                                                                                                                                                  r20 |                                                                                                                           
+ 119  S120                                                                                                                                                                                                                                |                                                                                                                           
+ 120                                                                                                                                                                                                                                  r18 |                                                                                                                           
+ 121  r13                                                                                                                                                                                                                                 |                                                                                                                           
+ 122  r12                                                                                                                                                                                                                                 |                                                                                                                           
+ 123  r11                                                                                                                                                                                                                                 |                                                                                                                           
+ 124  r10                                                                                                                                                                                                                                 |                                                                                                                           
+ 125  r9                                                                                                                                                                                                                                  |                                                                                                                           
+ 126  r8                                                                                                                                                                                                                                  |                                                                                                                           
+ 127  S128                                                                                                                                                                                                                                |                                                                                                                           
+ 128                                                                                                                                                                                                  r42                                 |                                                                                                                           
+ 129                                                                                                                                                                          S130                                                        |                                                                                                                           
+ 130                                                                                  S131                                                                                                                                                |                                                                                                                           
+ 131  S132                                                                                                                                                                                                                                |                                                                                                                           
+ 132  r5                                                                                                              r5              r5      r5      r5      r5      r5      r5              r5                      r5                  |                                                                                                                           
+ 133                                                                                                                                  S14     S15             S16     S17     S136                                                        |                                                                                           134                     135     
+ 134                                                                                                                                                  S184                                                                                |                                                                                                                           
+ 135                                                                                                                                                  S141                                                                                |                                                                                                                           
+ 136                                                                                                                                                                          S137                                                        |                                                                                                                           
+ 137                                                                                                                                                                          S138                                                        |                                                                                                                           
+ 138                                                                                  S139                                                                                                                                                |                                                                                                                           
+ 139  S140                                                                                                                                                                                                                                |                                                                                                                           
+ 140                                                                                                                                                  r5                                                                                  |                                                                                                                           
+ 141                                                                                                  S142                                                                                                                                |                                                                                                                           
+ 142                                  S29     S30     S31     S32     S33     S34                                                                     S38                                                     S39             S40         |                                                           35      36      143                                             
+ 143                                                                                  S144                                                                                                                    S145                        |                                                                                                                           
+ 144  S183                                                                                                                                                                                                                                |                                                                                                                           
+ 145                                  S29     S30     S31     S32     S33     S34                                                                     S149                                                    S150            S151        |                                                           146     147     148                                             
+ 146  S182                                                                                                                                                                                                                                |                                                                                                                           
+ 147  S179                                                                            S180                                                                                                                                                |                                                                                                                           
+ 148  S178                                                                                                                                                                                                    S172                        |                                                                                                                           
+ 149  S175                                                                            S176                                                                                                                                                |                                                                                                                           
+ 150                                  S29     S30     S31     S32     S33     S34                                                                     S149                                                    S150            S151        |                                                           146     147     170                                             
+ 151                                                                                                                  S48             S14     S15     S49     S50     S17     S51             S52                     S53                 |   41      42      152     44      45                                                      46                      47      
+ 152                                                                                                                                                                                                  S153                                |                                                                                                                           
+ 153                                  S154    S155    S156    S157    S158    S159                                                                                                                                                        |                                                                   160                                                     
+ 154  S169                                                                                                                                                                                                                                |                                                                                                                           
+ 155  S168                                                                                                                                                                                                                                |                                                                                                                           
+ 156  S167                                                                                                                                                                                                                                |                                                                                                                           
+ 157  S166                                                                                                                                                                                                                                |                                                                                                                           
+ 158  S165                                                                                                                                                                                                                                |                                                                                                                           
+ 159  S164                                                                                                                                                                                                                                |                                                                                                                           
+ 160                                                                                  S161                                                                                                                                                |                                                                                                                           
+ 161                                                                                                                                                                                                                                  S162|                                                                                                                           
+ 162  S163                                                                                                                                                                                                                                |                                                                                                                           
+ 163  r7                                                                                                                                                                                                      r7                          |                                                                                                                           
+ 164                                                                                  r13                                                                                                                                                 |                                                                                                                           
+ 165                                                                                  r12                                                                                                                                                 |                                                                                                                           
+ 166                                                                                  r11                                                                                                                                                 |                                                                                                                           
+ 167                                                                                  r10                                                                                                                                                 |                                                                                                                           
+ 168                                                                                  r9                                                                                                                                                  |                                                                                                                           
+ 169                                                                                  r8                                                                                                                                                  |                                                                                                                           
+ 170  S171                                                                                                                                                                                                    S172                        |                                                                                                                           
+ 171  r33                                                                                                                                                                                                     r33                         |                                                                                                                           
+ 172                                  S29     S30     S31     S32     S33     S34                                                                     S149                                                    S150            S151        |                                                           146     147     173                                             
+ 173  S174                                                                                                                                                                                                    S172                        |                                                                                                                           
+ 174  r32                                                                                                                                                                                                     r32                         |                                                                                                                           
+ 175  r31                                                                                                                                                                                                                                 |                                                                                                                           
+ 176  S177                                                                                                                                                                                                                                |                                                                                                                           
+ 177  r28                                                                                                                                                                                                     r28                         |                                                                                                                           
+ 178                                                                                  r32                                                                                                                     r32                         |                                                                                                                           
+ 179  r30                                                                                                                                                                                                                                 |                                                                                                                           
+ 180  S181                                                                                                                                                                                                                                |                                                                                                                           
+ 181  r27                                                                                                                                                                                                     r27                         |                                                                                                                           
+ 182  r29                                                                                                                                                                                                     r29                         |                                                                                                                           
+ 183                                                                                                                                                  r23                                                                                 |                                                                                                                           
+ 184                                                                                                                          S185                                                                                                        |                                                                                                                           
+ 185                                  S154    S155    S156    S157    S158    S159                                                                                                                                                        |                                                                   186                                                     
+ 186                                                                                  S187                                                                                                                                                |                                                                                                                           
+ 187                                                                                                                          S189                    S190                                                                                |                                                                                                           188             
+ 188                          S195                                                                                                                                                                                                        |                                                                                                                           
+ 189                                                                                                                                                  S193                                                                                |                                                                                                                           
+ 190                                                                                                                          S191                                                                                                        |                                                                                                                           
+ 191  S192                                                                                                                                                                                                                                |                                                                                                                           
+ 192                          r37                                                                                                                                                                                                         |                                                                                                                           
+ 193  S194                                                                                                                                                                                                                                |                                                                                                                           
+ 194                          r38                                                                                                                                                                                                         |                                                                                                                           
+ 195                                                                                                                                                                                                                          S196        |                                                                                                                           
+ 196                                                                                                                  S74             S14     S15     S49     S50     S17     S51             S75                     S53                 |   68      69      197     71      72                                                      73                      47      
+ 197                                                                                                                                                                                                                                  S198|                                                                                                                           
+ 198  S199                                                                                                                                                                                                                                |                                                                                                                           
+ 199  r36                                                                                                             r36             r36     r36     r36     r36     r36     r36             r36                     r36                 |                                                                                                                           
+ 200                                  S29     S30     S31     S32     S33     S34                                                                     S38                                                     S39             S40         |                                                           35      36      201                                             
+ 201                                                                                  S202                                                                                                                    S145                        |                                                                                                                           
+ 202  S203                                                                                                                                                                                                                                |                                                                                                                           
+ 203  r26                                                                                                             r26             r26     r26     r26     r26     r26     r26             r26                     r26                 |                                                                                                                           
+ 204                                                                                                                                                                                                  r43                                 |                                                                                                                           
+ 205                                                                                  S206            S207                                                                                                                                |                                                                                                                           
+ 206  S211                                                                                                                                                                                                                                |                                                                                                                           
+ 207                                  S29     S30     S31     S32     S33     S34                                                                     S38                                                     S39             S40         |                                                           35      36      208                                             
+ 208                                                                                  S209                                                                                                                    S145                        |                                                                                                                           
+ 209  S210                                                                                                                                                                                                                                |                                                                                                                           
+ 210  r23                                                                                                             r23             r23     r23     r23     r23     r23     r23             r23                     r23                 |                                                                                                                           
+ 211  r19                                                                                                             r19             r19     r19     r19     r19     r19     r19             r19                     r19                 |                                                                                                                           
+ 212                                                                                                                                                                                                  r22                                 |                                                                                                                           
+ 213  S214                                                                                                                                                                                                                                |                                                                                                                           
+ 214                                                                                                                                                                                                  r21                                 |                                                                                                                           
+ 215                                                                                                                                                                                                  r40                                 |                                                                                                                           
+ 216  S217                                                                                                                                                                                                                                |                                                                                                                           
+ 217                                                                                                                                                                                                  r39                                 |                                                                                                                           
+ 218                                                                                                                                                                                                  r35                                 |                                                                                                                           
+ 219  S220                                                                                                                                                                                                                                |                                                                                                                           
+ 220                                                                                                                                                                                                  r34                                 |                                                                                                                           
+ 221                                  S154    S155    S156    S157    S158    S159                                                                                                                                                        |                                                                   222                                                     
+ 222                                                                                  S223                                                                                                                                                |                                                                                                                           
+ 223                                                                                                                                                                                                                                  S224|                                                                                                                           
+ 224  S225                                                                                                                                                                                                                                |                                                                                                                           
+ 225                                                                                  r7                                                                                                                      r7                          |                                                                                                                           
+ 226                                                                                                                                                                                                  r25                                 |                                                                                                                           
+ 227  S228                                                                                                                                                                                                                                |                                                                                                                           
+ 228                                                                                                                                                                                                  r24                                 |                                                                                                                           
+ 229                                                                                                                                                                                                  r20                                 |                                                                                                                           
+ 230  S231                                                                                                                                                                                                                                |                                                                                                                           
+ 231                                                                                                                                                                                                  r18                                 |                                                                                                                           
+ 232  S233                                                                                                                                                                                                    S172                        |                                                                                                                           
+ 233                                                                                  r33                                                                                                                     r33                         |                                                                                                                           
+ 234  S235                                                                                                                                                                                                                                |                                                                                                                           
+ 235                                                                                  r28                                                                                                                     r28                         |                                                                                                                           
+ 236  S237                                                                                                                                                                                                                                |                                                                                                                           
+ 237  r23                                                                                                                             r23     r23             r23     r23                                                                 |                                                                                                                           
+ 238  S239                                                                                                                                                                                                                                |                                                                                                                           
+ 239                                                                                  r27                                                                                                                     r27                         |                                                                                                                           
+ 240                                                                                  r29                                                                                                                     r29                         |                                                                                                                           
+ 241  r13                                                                             r13                                                                                                                                                 |                                                                                                                           
+ 242  r12                                                                             r12                                                                                                                                                 |                                                                                                                           
+ 243  r11                                                                             r11                                                                                                                                                 |                                                                                                                           
+ 244  r10                                                                             r10                                                                                                                                                 |                                                                                                                           
+ 245  r9                                                                              r9                                                                                                                                                  |                                                                                                                           
+ 246  r8                                                                              r8                                                                                                                                                  |                                                                                                                           
+ 247  S262                                                                                                                                                                                                                                |                                                                                                                           
+ 248                                                                                                                                                                                  S257                                                |                                                                                                                           
+ 249  S256                                                                                                                                                                                                                                |                                                                                                                           
+ 250  S255                                                                                                                                                                                                                                |                                                                                                                           
+ 251  S254                                                                                                                                                                                                                                |                                                                                                                           
+ 252  S253                                                                                                                                                                                                                                |                                                                                                                           
+ 253                                                                                                                                                                                  r14                                                 |                                                                                                                           
+ 254                                                                                                                                                                                  r16                                                 |                                                                                                                           
+ 255                                                                                                                                                                                  r15                                                 |                                                                                                                           
+ 256                                                                                                                                                                                  r17                                                 |                                                                                                                           
+ 257                  S258                                                                                                                                                                                                                |                                                                                                                           
+ 258                          S259                                                                                                                                                                                                        |                                                                                                                           
+ 259                                  S29     S30     S31     S32     S33     S34                                                                     S149                                                    S150            S151        |                                                           146     147     260                                             
+ 260  S261                                                                                                                                                                                                    S172                        |                                                                                                                           
+ 261  r6                                                                                                                                                                                                                                  |                                                                                                                           
+ 262          r1                                                                                                                                                                                                                          |                                                                                                                           
+ 263                                                                                          S264                                                                                                                                        |                                                                                                                           
+ 264                                                                                                                                                                          S265                                                        |                                                                                                                           
+ 265                                                                                                          S266                                                                                                                        |                                                                                                                           
+ 266  S267                                                                                                                                                                                                                                |                                                                                                                           
+ 267  r3      r3                                                                                                                                                                                                                          |                                                                                                                           
+                            LR(1) 号埃蛍裂狛殻婢幣
+0 #    0,    kkkkkkkkkimiwiidiidifcfiar#
