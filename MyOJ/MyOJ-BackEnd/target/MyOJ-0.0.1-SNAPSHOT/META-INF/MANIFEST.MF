@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 21
+Build-Jdk: 1.8.0_261
+Implementation-Title: MyOJ
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: njust
+Main-Class: ${start-class}
+
